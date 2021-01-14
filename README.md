@@ -1,1 +1,2 @@
 # TranEx
+    TranEx is the transportation planing application with 4 steps model method. It consists of 4 modules. The first app is Trip Generation Module that produce the trip end from DPT (Department of Public work and Town Planning,Thailand) constant trip rate.
